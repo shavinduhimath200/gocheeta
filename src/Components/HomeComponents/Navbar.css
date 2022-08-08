@@ -1,6 +1,7 @@
 .container {
+    display: flex;
     background: yellow;
-    height: 50px;
+    height: 55px;
 }
 
 .container h2 {
