@@ -1,14 +1,17 @@
 import React from 'react'
-import Home from './Components/HomeComponents/Home'
+import Home from './Home'
+
+
+
 
 
 
 function App() {
   return (
     <div>
-   <Home /> 
+     <Home/>
     </div>
-  )
+    )
 }
 
 export default App

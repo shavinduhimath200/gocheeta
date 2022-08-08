@@ -1,0 +1,8 @@
+.container {
+    background: yellow;
+    height: 50px;
+}
+
+.container h2 {
+    color: red;
+}
