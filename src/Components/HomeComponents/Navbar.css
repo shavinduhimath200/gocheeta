@@ -13,11 +13,14 @@
 
 .container h2 {
     color: rgb(37, 37, 37);
+    cursor: pointer;
     margin-left: 20px;
     
 }
 .container h3{
     color: rgb(109, 0, 0);
+    font-family: sans-serif;
     cursor: pointer;
     margin-right: 20px;
+    
 }

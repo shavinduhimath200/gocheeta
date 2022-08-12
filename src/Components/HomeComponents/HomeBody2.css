@@ -1,35 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Rubik+Distressed&display=swap');
-.HomeBody_container{
+.HomeBody2_container{
     display: flex;
     justify-content: space-between;
-    height: 38rem;
+    height: 50rem;
     align-items: center;
     flex-direction: row;
     background-color: rgb(128, 116, 111);
 
 }
-.HomeBody_container h1 {
-    margin-left: 15%;
+.HomeBody2_Section2 h1 {
+    margin-top: -5%;
     text-align: center;
     font-family: DynaPuff;
-    font-size: 60px;
+    font-size: 50px;
     color: rgb(255, 217, 0);
 
     
 }
-.HomeBody_container h2{
-    margin-left: 15%;
+.HomeBody2_container h2{
+    margin-top: -5%;
     font-family: Abril Fatface;
     font-size: 30px;
-    width: 90%;
     text-align: center;
     color: rgb(158, 0, 0);
    
 
 }
-.HomeBody_container h3{
+.HomeBody2_container h3{
     margin-left: 15%;
     width: 70%;
     text-align: center;
