@@ -1,0 +1,17 @@
+.AboutBody_container{
+    display: flex;
+    height: 36rem;
+    flex-direction: row;
+    background-color: rgb(128, 116, 111);
+}
+.About_section1 h1{
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+.About_section1 h2{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+

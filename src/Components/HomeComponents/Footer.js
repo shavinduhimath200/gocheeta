@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Footer.css"
-import logoimg from "../../Assets/download.jpg";
+import logoimg from "../../Assets/Logo.png";
 import Fb from "../../Assets/facebook.png";
 import linkedin from "../../Assets/linkdein.png";
 

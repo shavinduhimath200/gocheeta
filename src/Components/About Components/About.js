@@ -1,8 +1,15 @@
 import React from 'react'
+import Footer from '../HomeComponents/Footer'
+import Navbar from '../HomeComponents/Navbar'
+import AboutBody from './AboutBody'
 
 function About() {
   return (
-    <div>About</div>
+    <div>
+      <Navbar/>
+      <AboutBody/>
+      <Footer/>
+    </div>
   )
 }
 

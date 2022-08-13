@@ -5,7 +5,7 @@ function HomeBody() {
   return (
     <div className='HomeBody_container'>
     <div className='Section1'>
-    <img src={TaxiIMG} alt ="" width={600} height={560} />
+    <img src={TaxiIMG} alt ="" width={600} height={600} />
     </div>
 
       <div className='Section2'>
