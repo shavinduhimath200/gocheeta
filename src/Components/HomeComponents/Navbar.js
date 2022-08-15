@@ -5,8 +5,15 @@ import "./Navbar.css"
 function Navbar() {
   const navigate = useNavigate();
   const LoadAbout = () => {
-    navigate('/About')
+  navigate('/About')
   }
+   {
+  const navigate = useNavigate();
+  const LoadContactUs = () => {
+  navigate('/ContactUs')
+  }
+
+
   return (
   <div className='container'>
     <div>
@@ -14,13 +21,15 @@ function Navbar() {
     </div>
       <div className='containerpart2'>
         <h3 onClick={LoadAbout}>About</h3>
-        <h3>Contact Us</h3>
+        <h3 onClick={LoadContactUs}>ContactUs</h3>
         <h3>Login</h3>
         <h3>SignUp</h3>
       </div>
   </div>
 
   )
+
+}
 }
 
 export default Navbar;

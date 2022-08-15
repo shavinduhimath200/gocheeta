@@ -8,7 +8,7 @@ function AboutBody() {
     <img src={taxiaboutIMG} alt ="" width={600} height={550} style={{marginLeft:"10px", marginTop:"10px"}} /> 
     <div className='About_section1'>
         <h1>About Us</h1>
-        <h2>hkfkhf khjfbf</h2>
+        <h2>As the market leader and Sri Lanka's most successful start-up business in recent times, we envision the intelligent upgrade of the local transportation industry; consequently inspiring Sri Lanka towards matching global standards in effective problem solving via technology. GoCheeta is the proud product of this vision, instilled by our leadership that comprises the enterprisingly youthful and highly accomplished, and realized by talent warehoused at our headquarters in Colombo, Sri Lanka.</h2>
     </div>
     </div>
     

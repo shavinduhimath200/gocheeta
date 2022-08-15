@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@700&display=swap');
 .container {
     display: flex;
     flex-direction: row;
@@ -13,13 +14,16 @@
 
 .container h2 {
     color: rgb(37, 37, 37);
+    font-family: EB Garamond;
+    font-size: 25px;
     cursor: pointer;
     margin-left: 20px;
     
 }
 .container h3{
     color: rgb(109, 0, 0);
-    font-family: sans-serif;
+    font-family: EB Garamond;
+    font-size: 25px;
     cursor: pointer;
     margin-right: 20px;
     

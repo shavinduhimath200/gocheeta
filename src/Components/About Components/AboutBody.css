@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@200&display=swap');
 .AboutBody_container{
     display: flex;
     height: 36rem;
@@ -5,13 +7,17 @@
     background-color: rgb(128, 116, 111);
 }
 .About_section1 h1{
+    font-family: Bree Serif;
     margin-left: 50px;
     margin-top: 10px;
+    color: brown;
 
 }
 .About_section1 h2{
+    font-family: IBM Plex Serif;
     margin-left: 50px;
     margin-top: 10px;
+    
 }
 
 
