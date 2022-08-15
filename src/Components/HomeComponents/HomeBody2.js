@@ -11,7 +11,7 @@ function HomeBody2() {
       <h2>GoCheeta ride healing include the largest fleet of vehicles in Sri Lanka offering both of demand and pre booking features at the best rates. Including TUK-TUKs Flex, Minis, Cars, Mini Vans, and vans offering you comfort convenience and safety, covering the entire island nation.</h2>
       </div>
       <div className='HomeBody2_Section1'>
-    <img src={TaxiIMG2} alt ="" width={700} height={700} style={{marginRight:"10px"}} />
+    <img src={TaxiIMG2} alt ="" width={700} height={700} style={{marginRight:"10px", borderRadius:"20px"}} />
     </div>
     </div>
   )

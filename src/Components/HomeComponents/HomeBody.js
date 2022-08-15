@@ -1,11 +1,11 @@
 import React from 'react'
 import "./HomeBody.css"
-import TaxiIMG from "../../Assets/taxi_img.png"
+import TaxiIMG from "../../Assets/taxi_video.gif"
 function HomeBody() {
   return (
     <div className='HomeBody_container'>
     <div className='Section1'>
-    <img src={TaxiIMG} alt ="" width={600} height={600} />
+    <img src={TaxiIMG} alt ="" width={600} height={600} style={{borderRadius:"10px", marginTop:"20px"}} />
     </div>
 
       <div className='Section2'>
