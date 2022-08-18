@@ -6,7 +6,7 @@
     height: 50rem;
     align-items: center;
     flex-direction: row;
-    background-color: rgb(128, 116, 111);
+    background-color:rgb(97, 72, 28);
 
 }
 .HomeBody2_Section2 h1 {
@@ -21,7 +21,7 @@
 .HomeBody2_container h2{
     margin-top: -5%;
     font-family: Roboto Slab;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     color: rgb(36, 23, 0);
    

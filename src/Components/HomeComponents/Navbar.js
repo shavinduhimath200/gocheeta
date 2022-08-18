@@ -7,10 +7,14 @@ function Navbar() {
   const LoadAbout = () => {
   navigate('/About')
   }
-   {
-  const navigate = useNavigate();
+
+ 
   const LoadContactUs = () => {
   navigate('/ContactUs')
+  }
+
+  const LoadRideNow = () => {
+  navigate('/RideNow')
   }
 
 
@@ -20,6 +24,7 @@ function Navbar() {
     <h2>GoCheeta</h2>
     </div>
       <div className='containerpart2'>
+        <div className='RideNowButton' onClick={LoadRideNow}>Ride Now</div>
         <h3 onClick={LoadAbout}>About</h3>
         <h3 onClick={LoadContactUs}>ContactUs</h3>
         <h3>Login</h3>
@@ -29,7 +34,7 @@ function Navbar() {
 
   )
 
-}
-}
+  }
+
 
 export default Navbar;
